@@ -1,0 +1,6 @@
+﻿  week4.cpp
+C:\Users\Keiru\Source\Repos\week4\week4.cpp(190,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Keiru\Source\Repos\week4\week4.cpp(196,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Keiru\Source\Repos\week4\week4.cpp(202,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Keiru\Source\Repos\week4\week4.cpp(208,23): warning C4553: '==': result of expression not used; did you intend '='?
+  week4.vcxproj -> C:\Users\Keiru\Source\Repos\week4\x64\Debug\week4.exe
